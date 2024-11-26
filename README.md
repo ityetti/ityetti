@@ -1,6 +1,6 @@
 ### Magento Development
 
-![Alexey's github stats](https://github-readme-stats.vercel.app/api?username=ityetti)
+![Oleksii's github stats](https://github-readme-stats.vercel.app/api?username=ityetti)
 
 ![](https://komarev.com/ghpvc/?username=ityetti&color=brightgreen)
 
