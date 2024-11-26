@@ -11,4 +11,4 @@
 
 [email]: mailto:ityetti@gmail.com
 [youtube]: https://www.youtube.com/channel/UCRxMrNYtYkZSzUITOLvsVrQ/
-[linkedin]: https://www.linkedin.com/in/borovik/
+[linkedin]: https://www.linkedin.com/in/iamborovyk/
